@@ -1,4 +1,5 @@
 import string
+import requests
 from collections import Counter
 
 # reading text file
